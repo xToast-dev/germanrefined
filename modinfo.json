@@ -16,8 +16,5 @@
         "And alot more!"
     ],
     "description": "\nBrings the latest (and also backports!) German Crowdin translations directly into your game.\n----\nBuild Date: 17.03.2026 21:19",
-    "version": "0.0.2",
-    "dependencies": {
-        "game": "1.21.0"
-    }
+    "version": "0.0.2"
 }
