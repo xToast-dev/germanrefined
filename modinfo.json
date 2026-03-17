@@ -1,0 +1,23 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Content",
+    "modid": "germanrefined",
+    "side": "Client",
+    "name": "GermanRefined",
+    "authors": [
+        "xToast",
+        "Brady_The",
+        "Svarrmir",
+        "dauerzockerhoch2",
+        "Snossoz",
+        "Lillyvanilly",
+        "Sormiel",
+        "NiclAss",
+        "And alot more!"
+    ],
+    "description": "\nBrings the latest (and also backports!) German Crowdin translations directly into your game.\n----\nBuild Date: 17.03.2026 21:19",
+    "version": "0.0.2",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}
