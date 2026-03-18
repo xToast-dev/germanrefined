@@ -5,16 +5,17 @@
     "side": "Client",
     "name": "GermanRefined",
     "authors": [
-        "xToast",
-        "Brady_The",
-        "Svarrmir",
-        "dauerzockerhoch2",
-        "Snossoz",
-        "Lillyvanilly",
-        "Sormiel",
-        "NiclAss",
-        "And alot more!"
+        "xToast"
     ],
-    "description": "\nBrings the latest (and also backports!) German Crowdin translations directly into your game.\n----\nBuild Date: 17.03.2026 21:19",
-    "version": "0.0.3"
+    "contributors": [
+        "derzockerhoch2",
+        "Brady_The",
+        "Lillyvanilly",
+        "Svarrmir",
+        "Welcemir",
+        "Sormiel",
+        "dersaruman"
+    ],
+    "description": "\nBrings the latest (and also backports!) German Crowdin translations directly into your game.\n----\nBuild Date: 18.03.2026 12:21",
+    "version": "0.0.4"
 }
