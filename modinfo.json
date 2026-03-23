@@ -17,5 +17,5 @@
         "dersaruman"
     ],
     "description": "\nBrings the latest (and also backports!) German Crowdin translations directly into your game.\n----\nBuild Date: 21.03.2026 11:53",
-    "version": "0.0.7"
+    "version": "0.0.8"
 }
