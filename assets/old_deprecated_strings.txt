@@ -1,0 +1,16 @@
+// Das sind alte Übersetzungen um die Kompatibilität für 1.21.x=> zu erhöhen
+
+	"compatibilityforoldstuff": "Kompatibilität für ältere Versionen",
+	"block-lantern-up-copper": "Kupferlaterne",
+	"block-lantern-up-brass": "Messinglaterne",
+	"block-lantern-up-blackbronze": "Schwarzbronze-Laterne",
+	"block-lantern-up-bismuth": "Bismutlaterne",
+	"block-lantern-up-tinbronze": "Zinnbronze-Laterne",
+	"block-lantern-up-bismuthbronze": "Bismutbronze-Laterne",
+	"block-lantern-up-iron": "Eisenlaterne",
+	"block-lantern-up-molybdochalkos": "Kupferblei-Laterne",
+	"block-lantern-up-silver": "Silberlaterne",
+	"block-lantern-up-gold": "Goldlaterne",
+	"block-lantern-up-meteoriciron": "Meteoreisen-Laterne",
+	"block-lantern-up-steel": "Stahllaterne",
+	"block-lantern-up-electrum": "Elektrumlaterne"

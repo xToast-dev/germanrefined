@@ -2,7 +2,8 @@
     "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
     "type": "Content",
     "modid": "germanrefined",
-    "side": "Client",
+    "requiredOnClient": true,
+    "requiredOnServer": false,
     "name": "GermanRefined",
     "authors": [
         "xToast"
@@ -14,8 +15,9 @@
         "Svarrmir",
         "Welcemir",
         "Sormiel",
-        "dersaruman"
+        "dersaruman",
+        "TBGB_Poole"
     ],
-    "description": "\nBrings the latest (and also backports!) German Crowdin translations directly into your game.\n----\nBuild Date: 28.03.2026 17:55",
-    "version": "1.0.4"
+    "description": "\nBrings the latest German Crowdin translations directly into your game!\n----\nBuild Date: 28.03.2026 21:58",
+    "version": "1.1.0"
 }
