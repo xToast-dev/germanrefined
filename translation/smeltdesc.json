@@ -1,0 +1,20 @@
+{
+    "smeltdesc-bake-title": "Backt im Ofen zu",
+    "smeltdesc-smelt-title": "Schmilzt zu",
+    "smeltdesc-cook-title": "Kocht zu",
+    "smeltdesc-convert-title": "Wenn erhitzt, wird zu",
+    "smeltdesc-fire-title": "Brennt zu",
+    "smeltdesc-beehivekiln-title": "Brennt im Bienenkorbofen zu",
+    "smeltdesc-bake-singular": "Backt zu {0}x {1}",
+    "smeltdesc-smelt-singular": "Schmilzt zu {0}x {1}",
+    "smeltdesc-cook-singular": "Kocht zu {0}x {1}",
+    "smeltdesc-convert-singular": "Wenn erhitzt, wird zu {0}x {1}",
+    "smeltdesc-fire-singular": "Brennt zu {0}x {1}",
+    "smeltdesc-bake-plural": "{0} Stück backen zu {1}x {2}",
+    "smeltdesc-smelt-plural": "{0} Stück schmelzen zu {1}x {2}",
+    "smeltdesc-smeltore-plural": "{0} Einheiten von {1}",
+    "smeltdesc-cook-plural": "{0} Stück kochen zu {1}x {2}",
+    "smeltdesc-convert-plural": "{0} Stück werden zu {1}x {2}",
+    "smeltdesc-fire-plural": "{0} Stück brennen zu {1}x {2}",
+    "smeltdesc-beehivekiln-opendoors": "wenn {p0:keine Türen geöffnet sind|# Tür geöffnet ist|# Türen geöffnet sind}"
+}
