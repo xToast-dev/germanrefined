@@ -1,9 +1,0 @@
-{
-    "mealcreation-makesingular": "Stellt {0} Portion {1} her",
-    "mealcreation-makeplural": "Stellt {0} Portionen {1} her",
-    "mealcreation-nonfood": "Stellt {0}× {1} her",
-    "mealcreation-nonfood-liquid": "Wird {0} {1} kochen",
-    "mealcreation-recipeerror": "Die Zutatenverhältnisse für {0} sind falsch",
-    "mealcreation-toomuch": "In {0} ist zu wenig Platz, um {1}x {2} herzustellen",
-    "mealcreation-norecipe": "Kein passendes Rezept gefunden"
-}
